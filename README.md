@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maria Preethi Rampangu
+# 👋 Hi, I'm Maria Preethi 
 
 🎓 **Master of Engineering in Computer Science**
 University of Cincinnati | GPA: 3.9/4.0
