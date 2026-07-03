@@ -6,6 +6,8 @@
 
 Software Engineer building full-stack, backend, data, cloud, and applied AI systems.
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+React+%7C+PostgreSQL;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;RAG+%7C+AI+Workflows+%7C+Vector+Search;Full-Stack+%7C+Backend+%7C+Data+%7C+Applied+AI" alt="Animated technology focus" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Preethi_Rampangu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-preethi-r/)
 [![Email](https://img.shields.io/badge/Email-mariapreethir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mariapreethir@gmail.com)
 ![Location](https://img.shields.io/badge/Sunnyvale%2C_CA-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
